@@ -1,0 +1,25 @@
+{
+  "name": "projecttemplate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sandermarin/simpleprojecttemplate",
+  "authors": [
+    "SanderMarin <sander.marin@howest.be>"
+  ],
+  "description": "Just a simple project template",
+  "keywords": [
+    "simple",
+    "template"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
