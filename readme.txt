@@ -61,6 +61,7 @@ Follow tutorial to create repo.
 
 /*==========  Bower  ==========*/
 
+https://github.com/bower/bower
 
 
 /*==========  Grunt  ==========*/
